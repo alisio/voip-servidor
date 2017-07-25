@@ -32,5 +32,5 @@ Vagrant.configure("2") do |config|
   config.vm.box = "centos/7"
   config.vm.provision "shell", inline: $script
   config.vm.synced_folder ".", "/vagrant", type: "virtualbox"
-  config.vm.network "private_network", ip: "10.31.8.180"
+  config.vm.network "private_network", ip: "192.168.0.2"
 end
