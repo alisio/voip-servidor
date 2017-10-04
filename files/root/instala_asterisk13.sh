@@ -35,7 +35,7 @@ cd /usr/src/
 
 sudo /usr/bin/wget http://downloads.asterisk.org/pub/telephony/libpri/libpri-1.6.0.tar.gz
 sudo /usr/bin/wget http://downloads.asterisk.org/pub/telephony/dahdi-linux-complete/dahdi-linux-complete-2.11.1+2.11.1.tar.gz
-sudo /usr/bin/wget http://downloads.asterisk.org/pub/telephony/certified-asterisk/asterisk-certified-13.13-cert4.tar.gz
+sudo /usr/bin/wget http://downloads.asterisk.org/pub/telephony/certified-asterisk/asterisk-certified-13.13-cert6.tar.gz 
 #sudo /usr/bin/wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-13-current.tar.gz
 
 sudo /usr/bin/tar -xvf asterisk*
